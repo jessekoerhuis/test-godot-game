@@ -4,7 +4,7 @@ This repository contains a test project in Godot Engine v4.5.1. It is a 2D platf
 
 
 
-!\[preview](./screens/preview.png)
+!\[preview](screens/preview.png)
 
 
 
