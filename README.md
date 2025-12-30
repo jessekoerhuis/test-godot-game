@@ -4,7 +4,7 @@ This repository contains a test project in Godot Engine v4.5.1. It is a 2D platf
 
 
 
-!\[preview](https://raw.githubusercontent.com/jessekoerhuis/test-godot-game/refs/heads/main/screens/preview.png)
+![preview](https://raw.githubusercontent.com/jessekoerhuis/test-godot-game/refs/heads/main/screens/preview.png)
 
 
 
